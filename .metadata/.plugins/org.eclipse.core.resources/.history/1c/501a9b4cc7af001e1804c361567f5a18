@@ -1,0 +1,4 @@
+From openjdk:8
+EXPOSE 8083
+ADD target/SpringAwsdemo-0.0.1-SNAPSHOT.war SpringAwsdemo-0.0.1-SNAPSHOT.war
+ENTRYPOINT [ "java","-jar","/SpringAwsdemo-0.0.1-SNAPSHOT.war" ]

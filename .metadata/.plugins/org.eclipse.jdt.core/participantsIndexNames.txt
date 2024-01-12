@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\gupta\Documents\workspace-spring-tool-suite-4-4.20.0.RELEASE\phase5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\814763827.index
+\springdbaws\src\main\java
+C:\Users\gupta\Documents\workspace-spring-tool-suite-4-4.20.0.RELEASE\phase5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\420339539.index
+\JDBCseleni\src\main\resources

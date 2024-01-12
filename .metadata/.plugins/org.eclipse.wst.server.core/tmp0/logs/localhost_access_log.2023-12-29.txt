@@ -1,0 +1,7 @@
+127.0.0.1 - - [29/Dec/2023:21:58:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Dec/2023:21:58:38 +0530] "GET /JDBCSel/index.jsp HTTP/1.1" 200 560
+0:0:0:0:0:0:0:1 - - [29/Dec/2023:21:58:38 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [29/Dec/2023:22:01:10 +0530] "GET /JDBCSel/index.jsp HTTP/1.1" 200 560
+0:0:0:0:0:0:0:1 - - [29/Dec/2023:22:01:19 +0530] "GET /JDBCSel/addproduct.jsp?addBtn=addproduct HTTP/1.1" 200 410
+0:0:0:0:0:0:0:1 - - [29/Dec/2023:22:01:43 +0530] "GET /JDBCSel/success.jsp HTTP/1.1" 200 756
+0:0:0:0:0:0:0:1 - - [29/Dec/2023:22:02:01 +0530] "GET /JDBCSel/addController.jsp HTTP/1.1" 500 2612
